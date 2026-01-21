@@ -1,0 +1,12 @@
+python-dotenv
+requests
+fastapi
+uvicorn[standard]
+langchain-openai 
+langchain-core 
+pydantic 
+pydantic-settings
+qdrant-client
+bs4
+langgraph
+streamlit
